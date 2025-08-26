@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+    height: 95px;
+}
+
+div {
+  border: 1px solid red;
+}
+
+.header-link {
+  margin: auto;
+}
